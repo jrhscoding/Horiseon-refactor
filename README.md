@@ -30,3 +30,4 @@ below is the screenshot of the website as well as a link to the website
 
 ![websitescreenshot](./assets/images/website%20screenshot.png)
 https://jrhscoding.github.io/Horiseon-refactor/
+https://github.com/jrhscoding/Horiseon-refactor
