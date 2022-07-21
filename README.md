@@ -26,6 +26,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-below is the screenshot of the website
+below is the screenshot of the website as well as a link to the website
 
-![websitescreenshot](assets/images/website screenshot.png)
+![websitescreenshot](./assets/images/website%20screenshot.png)
+https://jrhscoding.github.io/Horiseon-refactor/
